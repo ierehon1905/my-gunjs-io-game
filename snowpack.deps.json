@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gun": "^0.2020.1232"
+  },
+  "lock": {
+    "gun#^0.2020.1232": "gun@v0.2020.1232-DG5XE6ReuJKIMOMI5gBU"
+  }
+}
