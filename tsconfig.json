@@ -3,6 +3,10 @@
     "baseUrl": "./",
     "paths": { "*": [".snowpack/types/*"] },
     "esModuleInterop": true,
-    "lib": ["ES2015", "DOM", "ESNext"]
+    "lib": ["ES2015", "DOM", "ESNext"],
+
+    "target": "ES2021",
+
+    "moduleResolution": "Node"
   }
 }
